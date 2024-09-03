@@ -8,10 +8,10 @@
 #define MAIL		{"mailx", "-f", "+inbox"}
 
 /* TERM variable for launched programs */
-#define TERM		"linux"
+#define TERM		"xterm-256color"
 
 /* tinyfont files for regular, italic, and bold fonts */
-#define FR		"/path/to/font.tf"
+#define FR		"/usr/lib/flux-r.tf"
 #define FI		NULL
 #define FB		NULL
 
