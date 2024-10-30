@@ -31,8 +31,8 @@
 #define BRIGHTEN	1
 
 /* foreground and background colors */
-#define FGCOLOR		COLOR0
-#define BGCOLOR		COLORF
+#define FGCOLOR		COLORF
+#define BGCOLOR		COLOR0
 
 /* black */
 #define COLOR0		0x000000
